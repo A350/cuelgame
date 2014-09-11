@@ -1,4 +1,4 @@
 cuelgame
 ========
 
-chrome-extensión-feed
+chrome-extension-feed
